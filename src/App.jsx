@@ -16,15 +16,14 @@ function App() {
         wish = "Good Evening";
         col.color='red';
     }
-  return(
-    <>
+  
+    
    
    return (
+    
         <div>
         <h1> Welcome Back to the page<span style={col}> {wish} </span></h1>
         </div>
-    );
-    </>
   );
 }
 
