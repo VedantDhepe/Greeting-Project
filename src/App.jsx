@@ -1,5 +1,5 @@
 import React from 'react';
-function Apps() {
+function App() {
   var time = new Date(); 
     time = time.getHours();
     let wish;
@@ -27,5 +27,5 @@ function Apps() {
   );
 }
 
-export default Apps;
+export default App;
 
