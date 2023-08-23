@@ -16,7 +16,7 @@ function Apps() {
         wish = "Good Evening";
         col.color='red';
     }
-<<<<<<< HEAD
+
     return (
       <>
       <div>
@@ -28,18 +28,4 @@ function Apps() {
 }
 
 export default Apps;
-=======
-  return(
-    <>
-   
-   return (
-        <div>
-        <h1> Welcome Back to this page <span style={col}> {wish} </span></h1>
-        </div>
-    );
-    </>
-  );
-}
 
-export default App;
->>>>>>> 30d0d9f76fafabe3d510666b06e954f3f173d2a2
