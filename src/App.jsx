@@ -19,11 +19,12 @@ function App() {
   
     
    
-   return (
     
-        <div>
-        <h1> SUSWAGATAM<span style={col}> {wish} </span></h1>
-        </div>
+    return (
+      <div>
+      <h1> Welcome Back to the page <span style={col}> {wish} </span></h1>
+      </div>
+  
   );
 }
 
