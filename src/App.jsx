@@ -1,5 +1,5 @@
 import React from 'react';
-function App() {
+function Apps() {
   var time = new Date(); 
     time = time.getHours();
     let wish;
@@ -16,16 +16,14 @@ function App() {
         wish = "Good Evening";
         col.color='red';
     }
-  
-    
-   
-    
     return (
+      <>
       <div>
-      <h1> Welcome Back to the page <span style={col}> {wish} </span></h1>
+      <h1> Wellcome back to the home page <span style={col}> {wish} </span></h1>
       </div>
+      </>
   
   );
 }
 
-export default App;
+export default Apps;
