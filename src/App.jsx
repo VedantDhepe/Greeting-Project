@@ -19,9 +19,11 @@ function App() {
   return(
     <>
    
+   return (
         <div>
         <h1> Welcome Back <span style={col}> {wish} </span></h1>
         </div>
+    );
     </>
   );
 }
