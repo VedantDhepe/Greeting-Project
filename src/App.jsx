@@ -21,7 +21,7 @@ function App() {
    
    return (
         <div>
-        <h1> Welcome Back <span style={col}> {wish} </span></h1>
+        <h1> Welcome Back to the page<span style={col}> {wish} </span></h1>
         </div>
     );
     </>
