@@ -20,6 +20,6 @@ else{
 }
 ReactDOM.render(
 <div>
-<h1> Welcome, <span style={col}>{wish}</span></h1>
+<h1> Welcome, <span style={col}> {wish}</span></h1>
 </div>,
 document.getElementById('root'),);
