@@ -20,7 +20,7 @@ function App() {
     return (
       <>
       <div>
-      <h1> Wellcome back to the home page <span style={col}> {wish} </span></h1>
+      <h1> Wellcome back to this React App page <span style={col}> {wish} </span></h1>
       </div>
       </>
   
