@@ -20,7 +20,7 @@ function App() {
     <>
    
         <div>
-        <h1> Welcome Back, <span style={col}> {wish} </span></h1>
+        <h1> Welcome Back <span style={col}> {wish} </span></h1>
         </div>
     </>
   );
