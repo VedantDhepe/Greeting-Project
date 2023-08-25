@@ -12,7 +12,7 @@ function App() {
         wish = "Good Afternoon";
         col.color='orange';
     }
-    else if(time>=4 && time <7{
+    else if(time>=16 && time <19){
         wish = "Good Evening";
     }
     else{
