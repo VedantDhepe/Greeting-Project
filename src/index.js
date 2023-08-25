@@ -7,7 +7,6 @@ import App from './App';
 ReactDOM.render(
   <>
   <App/>
-  <h2>Abhishek</h2>
   </>
 ,
 document.getElementById('root'),);
