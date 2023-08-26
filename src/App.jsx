@@ -23,7 +23,7 @@ function App() {
     return (
       <>
       <div>
-      <h1>Hello, <span style={col}> {wish} </span></h1>
+      <h1>It's {time} hour of the Day <br/> <span style={col}> {wish} </span></h1>
       </div>
       </>
   
